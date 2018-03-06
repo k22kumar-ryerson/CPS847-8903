@@ -1,9 +1,9 @@
-package miderm;
+package midterm;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import cps847midterm.Midtrm;
+import midterm.Midtrm;
 
 
 public class MathTester
