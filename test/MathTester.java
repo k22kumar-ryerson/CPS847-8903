@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 import cps847midterm.Math;
 
 
-public class Junit
+public class MathTester
 {
     
     public void testCps8903() {
