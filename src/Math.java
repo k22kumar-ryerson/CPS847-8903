@@ -1,6 +1,6 @@
 package midterm;
 
-public class Math
+public class Midtrm
 {
     public int cps8903(int y)
     {
