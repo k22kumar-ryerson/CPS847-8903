@@ -3,7 +3,7 @@ package miderm;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import cps847midterm.Math;
+import cps847midterm.Midtrm;
 
 
 public class MathTester
@@ -11,9 +11,9 @@ public class MathTester
     
     public void testCps8903() {
     
-        Math math = new Math();
+        Midtrm m = new Midtrm();
         
-        assertEquals("Test cps8903", "16", math.cps8903(4));
+        assertEquals("Test cps8903", "16", m.cps8903(4));
     
     }
     
